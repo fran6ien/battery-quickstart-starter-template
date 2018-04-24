@@ -1,0 +1,17 @@
+{
+  "name": "Battery",
+  "description": "Battery provides a good template for an in-app battery/charge indicator with different visualization choices, plus ideas of what could be changed once battery level gets low.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/batteryStatus/images/icon-128.png"
+  },
+  "developer": {
+    "name": "francien fogne",
+    "url": "https://github.com/fran6ien"
+  },
+  "permissions": {
+    "desktop-notification": {
+      "description": "Needed for creating system notifications."
+    }
+  }
+}
